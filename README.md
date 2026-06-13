@@ -85,8 +85,3 @@ This project helped me gain practical experience in data cleaning, data loading,
 
 ---
 
-## License
-
-This project is licensed under the MIT License. 
-
----
